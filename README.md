@@ -19,4 +19,4 @@ ShelfMate is a **Library Management System** developed in Java that allows users
 ## 📂 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ShelfMate.git
+   git clone https://github.com/lone4alker/ShelfMate.git
